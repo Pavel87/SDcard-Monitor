@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sd_background">#5A5A5B</color>
+    <color name="log_bg">#EDEDED</color>
+    <color name="btn_export_background">#424242</color>
+    <color name="btn_export_text">#448aff</color>
+</resources>

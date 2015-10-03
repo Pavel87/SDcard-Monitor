@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><!--This is an auto generated document. Changes to this document may cause incorrect behavior.--><wap-provisioningdoc>
+  <characteristic type="ProfileInfo">
+    <parm name="created_wizard_version" value="3.1.20"/>
+  </characteristic>
+  <characteristic type="Profile">
+    <parm name="ProfileName" value="test"/>
+    <parm name="ModifiedDate" value="2015-09-28 14:59:26"/>
+    <parm name="TargetSystemVersion" value="4.4"/>
+  </characteristic>
+</wap-provisioningdoc>
